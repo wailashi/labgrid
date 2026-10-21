@@ -155,6 +155,9 @@ Currently available are:
 ``apc``
   Controls *APU PDUs* via SNMP.
 
+``blackbox``
+  Controls *Blackbox PSE544* power switches via the "hidden page" API.
+
 ``digipower``
   Controls *DigiPower PDUs* via a simple HTTP API.
 

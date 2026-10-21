@@ -283,6 +283,7 @@ class TestNetworkPowerDriver:
     def test_import_backends(self):
         import labgrid.driver.power
         import labgrid.driver.power.apc
+        import labgrid.driver.power.blackbox
         import labgrid.driver.power.digipower
         import labgrid.driver.power.digitalloggers_http
         import labgrid.driver.power.digitalloggers_restapi
